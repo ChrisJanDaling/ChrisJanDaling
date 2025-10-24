@@ -148,4 +148,12 @@
 
 ---
 
-*Source: Detailed build notes, specs, tests, and BOM compiled from project portfolio document.* :contentReference[oaicite:0]{index=0}
+## Sources & Further Reading
+
+- Reddit — *Making your own e-foil* [R].
+- YouTube — *How to build an e-foil* [Y].
+- Foil Zone — *eFoil Builders* [FZ].
+
+[R]: https://www.reddit.com/r/eFoil/comments/s1bl4x/making_your_own_efoil/
+[Y]: https://www.youtube.com/watch?v=bbcwL9_MjeY
+[FZ]: https://foil.zone/c/efoil-builders/18
