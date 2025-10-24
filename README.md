@@ -5,7 +5,7 @@
 
 <h1 align="center">Hey, I’m ChrisJan </h1>
 <p align="center">
-  Mechanical Engineering @ UVic • E-foil builder • CAD & prototyping nerd • Always learning
+  Mechanical Engineering @ UVic • Currently Testing E-foil Build • CAD & prototyping
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@
   - 16S battery architecture with BMS, fuse & harnessing best-practices  
   - Composite board (multi-layer fiberglass/carbon) with integrated hatches  
   - Motor pod + mast clamp, designed for sealing & serviceability  
-- **Repo:** _Add link here once public (e.g., `/efoil-build`)_  
+- **Repo:**  https://github.com/ChrisJanDaling/ChrisJanDaling/blob/main/_projects/efoil.md 
 - **Docs quick links:**  
   - `/docs/BOM.md` – Bill of Materials  
   - `/docs/Wiring.md` – BMS/ESC wiring & safety notes  
