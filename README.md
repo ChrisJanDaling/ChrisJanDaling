@@ -59,10 +59,10 @@
 ---
 
 ## 📷 Gallery (teaser)
-![E-foil build](assets/photos/01A965EF-8136-4576-9CB1-954B73BDF462.JPG)
 <p align="center">
-  <img src="https://github.com/ChrisJanDaling/ChrisJanDaling/blob/main/01A965EF-8136-4576-9CB1-954B73BDF462.JPG?raw=1" alt="E-foil build" width="720">
+  <img src="https://raw.githubusercontent.com/ChrisJanDaling/ChrisJanDaling/main/assets/photos/01A965EF-8136-4576-9CB1-954B73BDF462.JPG" alt="E-foil build" width="720">
 </p>
+
 
 
 
