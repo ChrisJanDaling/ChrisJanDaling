@@ -1,14 +1,3 @@
----
-layout: project
-title: Electric Hydrofoil (E-Foil)
-role: Mechanical design, fabrication, testing
-tools: SolidWorks, FreeCAD, PETG/TPU, epoxy/fiberglass, Flipsky 75200 ESC, JK-BMS
-tags: [marine, composites, batteries, CAD, power-electronics]
-date: 2025-10-23
-gallery:
-  - /assets/images/efoil_01.jpg
-  - /assets/images/efoil_02.jpg
----
 
 ## Goal & Constraints
 **Goal.** Design and build an electric hydrofoil that matches or outperforms mainstream consumer models while costing substantially less.  
