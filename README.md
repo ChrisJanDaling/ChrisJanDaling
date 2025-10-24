@@ -52,8 +52,8 @@
 - **Repo:**  https://github.com/ChrisJanDaling/ChrisJanDaling/blob/main/_projects/Efoil/efoil.md 
 - **Docs quick links:**  
   - [`/docs/BOM.md` – Bill of Materials](https://github.com/ChrisJanDaling/ChrisJanDaling/blob/main/_projects/Efoil/efoil.md#cost--bill-of-materials-bom)  
-  - `/cad/` – SolidWorks & STEP exports  
-  - `/analysis/` – Power, range & buoyancy calcs
+  - `/cad/` – SolidWorks & STEP exports  (Final Files to e uploaded soon)
+  - [`/analysis/` – Power, range & buoyancy calcs](https://github.com/ChrisJanDaling/ChrisJanDaling/blob/main/_projects/Efoil/efoil.md#requirements--key-calculations-approx-based-on-supplier-specs)
 
 ---
 
