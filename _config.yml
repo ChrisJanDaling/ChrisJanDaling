@@ -13,3 +13,8 @@ header_pages:
   - projects/index.md
   - blog/index.md
   - about.md
+
+  collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
