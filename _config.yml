@@ -18,3 +18,8 @@ header_pages:
   projects:
     output: true
     permalink: /projects/:path/
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
