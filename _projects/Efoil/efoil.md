@@ -1,4 +1,5 @@
-
+# E-Foil Project — Design & Build Log
+**ChrisJan Daling • UVic Mechanical Engineering • 2025**
 ## Goal & Constraints
 **Goal.** Design and build an electric hydrofoil that matches or outperforms mainstream consumer models while costing substantially less.  
 **Targets.**
