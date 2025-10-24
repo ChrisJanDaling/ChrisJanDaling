@@ -1,0 +1,14 @@
+title: "Chris Daling — Portfolio"
+description: "Mechanical Engineering portfolio and build blog"
+url: "https://ChrisJanDaling.github.io"
+baseurl: ""
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+header_pages:
+  - projects/index.md
+  - blog/index.md
+  - about.md
