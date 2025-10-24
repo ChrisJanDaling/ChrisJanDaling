@@ -69,21 +69,10 @@
 
 
 
-
-
-
----
-
-## 🗂️ Other repos you might like
-- **CAD utilities:** parametric jigs/fixtures and hardware libraries  
-- **3D prints:** mounts, seals, ESC ducts, and shop helpers  
-- **Course labs:** circuits, dynamics, and thermodynamics notes/snippets
-
 ---
 
 ## 📝 Recent learning notes
-- Waterproofing & IP ratings for marine motors and connectors  
-- Load paths in composite layups for localized inserts (mast & hatch areas)  
+- Optimizing CAD for 3D printing (DfAM): Parametric, master-sketch parts with print-aware geometry (min walls/features, self-supporting angles), smart part       orientation, split/keys for large builds, ribs/bosses and heat-set insert seats, printable fits/tolerances, quick clearance checks, and light FEA on thin walls to  trim weight while keeping stiffness.  
 - Battery pack current distribution and thermal considerations
 
 ---
@@ -94,19 +83,7 @@
 
 ---
 
-## 📈 (Optional) GitHub stats widgets
-> These use third-party badges—keep if you like them.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisJanDaling&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrisJanDaling&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<sub>🧹 Last updated: <!-- yyyy-mm-dd --> 2025-10-23 • If you’re building an e-foil too, reach out!</sub>
 
 
 <!--
