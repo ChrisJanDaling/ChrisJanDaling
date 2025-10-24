@@ -52,7 +52,7 @@
 
 ---
 
-## 📷 Gallery 
+## 📷 Gallery (scan QR code to view google drive with all photos)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ChrisJanDaling/ChrisJanDaling/main/assets/photos/01A965EF-8136-4576-9CB1-954B7B3DF462.JPG"
