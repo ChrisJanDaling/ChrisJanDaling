@@ -1,0 +1,6 @@
+body { max-width: 900px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6; font-family: system-ui, Arial, sans-serif; }
+header nav a { margin-right: 1rem; text-decoration: none; }
+img { max-width: 100%; height: auto; }
+.gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+.project h1 { margin-bottom: 0.25rem; }
+.project p { margin: 0.25rem 0; }
