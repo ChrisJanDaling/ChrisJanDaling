@@ -12,7 +12,7 @@
 </p>
 
 ---
-
+<h2 align="center">Website has some bugs that I am actively tryin to resolve for my efoil project outline please visit <a href="[mailto:chrisjandaling@gmail.com](https://github.com/ChrisJanDaling/ChrisJanDaling/blob/main/_projects/Efoil/efoil.md)">eFoil Project</h2>
 ## 🧭 About me
 - 🎓 Mechanical Engineering student at UVic (co-op track)
 - 🛠️ I love building things end-to-end: CAD → fabrication → electronics → testing
