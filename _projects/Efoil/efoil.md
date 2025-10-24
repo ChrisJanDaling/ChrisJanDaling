@@ -11,26 +11,22 @@
 ---
 
 ## Requirements & Key Calculations *(approx., based on supplier specs)*
-**Total system mass**
-\[
-m_\text{total} \approx m_\text{rider} + m_\text{board} + m_\text{battery} + m_\text{system}
-= 95 + 18 + 16 + 6 \approx \mathbf{135~kg}
-\]
 
-**Buoyancy / Board volume**
-- Whole system (with rider) would require ~**135 L** to float → too large for a practical board.
-- For the **system without rider**, practical requirement: **40–50 L**.
+**Total system mass**  
+95 (rider) + 18 (board) + 16 (battery) + 6 (system) = **135 kg**
+
+**Buoyancy / Board volume**  
+- Whole system (with rider) would need ~**135 L** to float → too large for a practical board.  
+- **System without rider:** target **40–50 L**.  
 - SolidWorks model volume: **84.75 L** → enough to float the system and aid takeoff.
 
-**Battery pack** (16S12P, Li-ion, 3.2 V nominal cells @ 2.4 Ah/cell)
-- Nominal voltage: \(V_\text{nom} = 16 \times 3.2 = \mathbf{57.6~V}\)
-- Capacity: \(C = 12 \times 2.4 = \mathbf{28.8~Ah}\)
-- Energy: \(E = 57.6 \times 28.8 \approx \mathbf{1659~Wh}\)
-- Usable energy (η_energy ≈ 0.85): **~1410 Wh**
-- Cell discharge (claimed 15 A): \(I_\text{max} = 15 \times 12 = \mathbf{180~A}\)
-- Pack continuous power (electrical): \(P_\text{max} = 57.6 \times 180 \approx \mathbf{10.4~kW}\)
+**Battery pack** *(16S12P Li-ion, 3.2 V nominal, 2.4 Ah/cell)*  
+- Nominal voltage: 16 × 3.2 = **57.6 V**  
+- Capacity: 12 × 2.4 = **28.8 Ah**  
+- Energy: 57.6 × 28.8 ≈ **1659 Wh**; usable (≈85%): **~1410 Wh**  
+- Max discharge (15 A/cell claim): 15 × 12 = **180 A** → **~10.4 kW** @ 57.6 V
 
-**Runtime estimates** (assume overall efficiency η ≈ 0.9 for quick budgeting)
+**Runtime estimates** *(η ≈ 0.9 for quick budgeting)*
 
 | Rider mass | Approx. cruise power | Estimated cruise time \(t \approx \eta \cdot 1410 / P\) |
 |---|---:|---:|
