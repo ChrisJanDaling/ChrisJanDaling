@@ -59,8 +59,7 @@
 ---
 
 ## 📷 Gallery (teaser)
-_Add 2–4 images or GIFs here (board, battery pack, motor pod, test ride)._  
-`![E-foil render](./images/efiol-render.jpg)`
+assets/photos/01A965EF-8136-4576-9CB1-954B7B3DF462.JPG
 
 ---
 
