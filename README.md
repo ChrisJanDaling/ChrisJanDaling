@@ -31,9 +31,8 @@
 ---
 
 ## 🚀 What I’m working on
-- Final Testing on efoil project   
-- Optimizing battery pack with BMS & safe interconnects  
-- Cleaning up and optimizing CAD models to be able to release printable variants for community use
+- Final Testing on efoil project    
+- Cleaning up and optimizing CAD models to be able to release easily printable variants for community use
 
 ---
 
