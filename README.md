@@ -1,7 +1,3 @@
-<!--
-  Hi! This is the special profile README for github.com/ChrisJanDaling.
-  Anything here appears on your profile page.
--->
 
 <h1 align="center">Hey, I’m ChrisJan </h1>
 <p align="center">
@@ -42,7 +38,6 @@
 ---
 
 ## 📌 Featured project: E-foil build
-> Full write-up with photos, CAD, BOM, and test notes.
 
 - **Overview:** Custom board, 16S Li-ion pack, waterproof inrunner motor, high-current ESC  
 - **Highlights:**  
@@ -58,7 +53,7 @@
 ---
 
 ## 📷 Gallery 
-<!-- Three images in one row -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ChrisJanDaling/ChrisJanDaling/main/assets/photos/01A965EF-8136-4576-9CB1-954B7B3DF462.JPG"
        alt="E-foil build 1" width="32%"">
