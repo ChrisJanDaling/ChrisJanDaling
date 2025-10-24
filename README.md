@@ -61,6 +61,10 @@
   <img src="assets/photos/IMG_4305.JPG" alt="E-foil build 3" width="32%">
 </p>
 
+<p align="center">
+  <img src="assets/photos/frame.png" alt="E-foil build 2" width="32%">
+</p>
+
 
 
 ---
