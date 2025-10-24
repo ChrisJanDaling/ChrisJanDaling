@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:chrisjandaling@gmail.com">📧 Email</a> •
+  <a href="mailto:chrisjandaling@gmail.com">✉️ Email</a> •
   <a href="https://www.linkedin.com/in/chrisjandaling">🔗 LinkedIn</a> •
-  <a href="#-featured-project-e-foil-build">🛠️ E-foil Project</a>
-  [📄 View my resume (PDF)](assets/resume/ChrisJan_Daling_Resume.pdf)
+  <a href="#featured-project-e-foil-build">🛠️ E-foil Project</a> •
+  <a href="assets/resume/ChrisJan_Daling_Resume.pdf">📄 View my resume (PDF)</a>
 </p>
 
 ---
