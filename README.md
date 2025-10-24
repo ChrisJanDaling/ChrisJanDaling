@@ -49,7 +49,7 @@
   - 16S battery architecture with BMS following industry standard practices.  
   - Composite board (multi-layer fiberglass) with integrated hatches  
   - Motor pod + mast clamp, designed for sealing & serviceability  
-- **Repo:**  https://github.com/ChrisJanDaling/ChrisJanDaling/blob/main/_projects/efoil.md 
+- **Repo:**  https://github.com/ChrisJanDaling/ChrisJanDaling/blob/main/_projects/Efoil/efoil.md 
 - **Docs quick links:**  
   - `/docs/BOM.md` – Bill of Materials  
   - `/docs/Wiring.md` – BMS/ESC wiring & safety notes  
