@@ -1,7 +1,6 @@
-layout: home
-title: "Chris Daling — Mechanical Engineering @ UVic"
+Chris Daling — Mechanical Engineering @ UVic
 ---
-Welcome! I design and build electro-mechanical systems (e-foil, battery packs, waterproof motor mounts).
+Welcome! I design and build electro-mechanical systems
 
 - 🔧 CAD: SolidWorks, FreeCAD · 3D printing, composites
 - ⚡ Power electronics: Li-ion packs, ESC tuning
