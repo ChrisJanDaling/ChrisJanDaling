@@ -19,25 +19,25 @@
 ## 🧭 About me
 - 🎓 Mechanical Engineering student at UVic (co-op track)
 - 🛠️ I love building things end-to-end: CAD → fabrication → electronics → testing
-- 🌊 Current obsession: designing and riding an electric hydrofoil (e-foil)
-- 🧪 Interests: power electronics, composites, battery packs, simulation, and DFM
-- 💬 Ask me about: FreeCAD/SolidWorks workflows, 3D printing, and DIY e-mobility
+- 🌊 Current project: Testing/finalising and riding an electric hydrofoil (e-foil)
+- 🧪 Interests: Mechanical design, electronics, composites, battery packs and simulation
+
 
 ---
 
 ## 🧰 Toolbox
 **CAD:** SolidWorks, FreeCAD  
 **Fabrication:** 3D printing (PLA/PETG/TPU), basic CNC, composites (fiberglass/carbon)  
-**Electronics:** Li-ion packs (spot-welding, BMS wiring), ESCs, waterproofing/IP ratings  
+**Electronics:** Li-ion packs (spot-welding, soldering, wiring), ESCs, waterproofing.  
 **Software:** C/C++, MATLAB, Python basics, Git/GitHub  
 **Other:** Project scoping, cost breakdowns, test plans, documentation
 
 ---
 
 ## 🚀 What I’m working on
-- Finalizing the e-foil’s motor mount and waterproof hatch designs  
-- Optimizing a 16S Li-ion battery pack with BMS & safe interconnects  
-- Cleaning up CAD and releasing printable/DFM variants for community use
+- Final Testing on efoil project   
+- Optimizing battery pack with BMS & safe interconnects  
+- Cleaning up and optimizing CAD models to be able to release printable variants for community use
 
 ---
 
@@ -46,8 +46,8 @@
 
 - **Overview:** Custom board, 16S Li-ion pack, waterproof inrunner motor, high-current ESC  
 - **Highlights:**  
-  - 16S battery architecture with BMS, fuse & harnessing best-practices  
-  - Composite board (multi-layer fiberglass/carbon) with integrated hatches  
+  - 16S battery architecture with BMS following industry standard practices.  
+  - Composite board (multi-layer fiberglass) with integrated hatches  
   - Motor pod + mast clamp, designed for sealing & serviceability  
 - **Repo:**  https://github.com/ChrisJanDaling/ChrisJanDaling/blob/main/_projects/efoil.md 
 - **Docs quick links:**  
