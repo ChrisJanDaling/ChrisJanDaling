@@ -8,7 +8,7 @@
   <a href="mailto:chrisjandaling@gmail.com">✉️ Email</a> •
   <a href="https://www.linkedin.com/in/chrisjandaling">🔗 LinkedIn</a> •
   <a href="#featured-project-e-foil-build">🛠️ E-foil Project</a> •
-  <a href="assets/resume/ChrisJan_Daling_Resume(9).pdf">📄 View my resume (PDF)</a>
+  <a href="assets/resume/CHRIS_JAN_DALING_Resume (9).pdf">📄 View my resume (PDF)</a>
 </p>
 
 ---
