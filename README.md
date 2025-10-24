@@ -61,7 +61,8 @@
 ## 📷 Gallery 
 <!-- Three images in one row -->
 <p align="center">
-  <img src="assets/photos/01A965EF-8136-4576-9CB1-954B73BDF462.JPG" alt="E-foil build 1" width="32%">
+  <img src="https://raw.githubusercontent.com/ChrisJanDaling/ChrisJanDaling/main/assets/photos/01A965EF-8136-4576-9CB1-954B7B3DF462.JPG"
+       alt="E-foil build" width="360" loading="lazy"">
   <img src="assets/photos/IMG_4587.JPG" alt="E-foil build 2" width="32%">
   <img src="assets/photos/IMG_4305.JPG" alt="E-foil build 3" width="32%">
 </p>
