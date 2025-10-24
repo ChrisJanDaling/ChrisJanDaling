@@ -59,7 +59,8 @@
 ---
 
 ## 📷 Gallery (teaser)
-assets/photos/01A965EF-8136-4576-9CB1-954B7B3DF462.JPG
+![E-foil build](/assets/photos/01A965EF-8136-4576-9CB1-954B73BDF462.JPG)
+
 
 ---
 
