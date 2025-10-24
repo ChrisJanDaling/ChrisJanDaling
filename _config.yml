@@ -8,6 +8,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
 header_pages:
   - projects/index.md
   - blog/index.md
